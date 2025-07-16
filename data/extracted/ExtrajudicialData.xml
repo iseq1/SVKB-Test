@@ -1,0 +1,3014 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtrajudicialBankruptcy>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>acd33535-05dd-49cc-8c19-3b956b304096</Id>
+		<Number>12148319</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T04:13:48.63</PublishDate>
+		<Debtor>
+			<Name>Клиент_1</Name>
+			<BirthDate>1965-10-28T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Усть-Илимск Иркутской обл.</BirthPlace>
+			<Address>Иркутская область, г. Усть-Илимск, ул. Школьная, д. 6, кв.2</Address>
+			<Inn>423423423</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГАУ "МФЦ ИО"</Name>
+			<Inn>3812140367</Inn>
+			<Ogrn>1123850015442</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>9a7d6162-ddf7-493a-b577-c4cc9380a239</Id>
+		<Number>12148308</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T03:58:22.043</PublishDate>
+		<Debtor>
+			<Name>Клиент_2</Name>
+			<BirthDate>1968-04-17T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Улан-Удэ Республика Бурятия</BirthPlace>
+			<Address>Республика Бурятия, г. Улан-Удэ, мкр. 111, д. 11/2, кв. 12</Address>
+			<Inn>56735348</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГБУ "МФЦ РБ"</Name>
+			<Inn>0326478258</Inn>
+			<Ogrn>1080326008729</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>28fc3869-b089-4be5-bd5d-b0332f0870cc</Id>
+		<Number>12148303</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T03:36:56.513</PublishDate>
+		<Debtor>
+			<Name>Клиент_3</Name>
+			<BirthDate>1986-04-22T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Хабаровск</BirthPlace>
+			<Address>Хабаровский край г. Хабаровск ул. Саратовская д.4 кв.30</Address>
+			<Inn>496845624</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>КГКУ "ОСЭП ХАБАРОВСКОГО КРАЯ, МФЦ"</Name>
+			<Inn>2721187743</Inn>
+			<Ogrn>1112721010423</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>ПАО Банк "ФК Открытие"</Name>
+				<Bik>044525985</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО "Сбербанк России" "Дальневосточный банк"</Name>
+				<Bik>040813608</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ООО "Траст"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Договор уступки прав требования № Т-5/2020 от 15.05.2020 (ООО "Траст" и ПАО "Азиатско-Тихоокеанский Банк"), Договор уступки прав требования № 88-00-01387 от 20.04.2015 (ОАО "Азиатско-Тихоокеанский Банк" и АО "Райффайзенбанк"), Кредитный договор № 46060783 от 30.03.2013 (ЗАО "Райффайзенбанк")</Basis>
+					<TotalSum>432146.04</TotalSum>
+					<DebtSum>432146.04</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>69ba0610-bc61-4300-9957-dd9cd3c30327</Id>
+		<Number>12148298</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T03:23:17.617</PublishDate>
+		<Debtor>
+			<Name>Клиент_4</Name>
+			<BirthDate>1972-08-07T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Новошахтинск Ростовской обл.</BirthPlace>
+			<Address>683012, Камчатский край, гор. Петропавловск-Камчатский, ул. Петра Ильичева, д. 57, кв. 8</Address>
+			<Inn>93676347600</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_74</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>КГКУ "МФЦ КАМЧАТСКОГО КРАЯ"</Name>
+			<Inn>4101137295</Inn>
+			<Ogrn>1104101001982</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>2599ab30-c007-45e6-92b5-360b431be9ba</Id>
+		<Number>12148470</Number>
+		<Type>returnOfApplicationOnExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T06:17:02.497</PublishDate>
+		<Debtor>
+			<Name>Клиент_5</Name>
+			<BirthDate>1971-06-05T00:00:00Z</BirthDate>
+			<BirthPlace>с. Н-Каменка Алтайского района Алтайского края</BirthPlace>
+			<Address>Алтайский край, Алтайский р-н, с. Нижнекаменка, пер. Мостовой, дом 10</Address>
+			<Inn>7542306756</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_75</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>КАУ "МФЦ АЛТАЙСКОГО КРАЯ"</Name>
+			<Inn>2221183155</Inn>
+			<Ogrn>1102225014330</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о возврате гражданину поданного им заявления о признании гражданина банкротом во внесудебном порядке</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>07939f28-5244-4e2f-9190-c7378a6bfc3c</Id>
+		<Number>12148453</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T06:09:39.15</PublishDate>
+		<Debtor>
+			<Name>Клиент_6</Name>
+			<BirthDate>1991-12-16T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Челябинск</BirthPlace>
+			<Address>Челябинская обл., г. Челябинск, ул. 40-летия Победы, д. 28А, кв. 243</Address>
+			<Inn>07645689686</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ОГАУ "МФЦ ЧЕЛЯБИНСКОЙ ОБЛАСТИ"</Name>
+			<Inn>7453255521</Inn>
+			<Ogrn>1137453004810</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>be032334-ffb6-4956-bf85-76b44f818271</Id>
+		<Number>12148450</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T06:05:16.267</PublishDate>
+		<Debtor>
+			<Name>Клиент_7</Name>
+			<BirthDate>1959-03-22T00:00:00Z</BirthDate>
+			<BirthPlace>пос. Бурино Кунашакского р-на Челябинской обл.</BirthPlace>
+			<Address>Челябинская обл., г. Челябинск, ул. Коммуны, д. 88, кв. 33</Address>
+			<Inn>1676867864</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_76</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>ОГАУ "МФЦ ЧЕЛЯБИНСКОЙ ОБЛАСТИ"</Name>
+			<Inn>7453255521</Inn>
+			<Ogrn>1137453004810</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>107b01ae-a547-4dd2-883c-328c21595482</Id>
+		<Number>12148421</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T05:52:53.143</PublishDate>
+		<Debtor>
+			<Name>Клиент_8</Name>
+			<BirthDate>1955-04-28T00:00:00Z</BirthDate>
+			<BirthPlace>д. Кызыл-Агаш Москаленского района Омской области</BirthPlace>
+			<Address>г. Омск, ул. 70 лет Октября, д. 8, кв. 98</Address>
+		</Debtor>
+		<Publisher>
+			<Name>БУ "МФЦ"</Name>
+			<Inn>5503202108</Inn>
+			<Ogrn>1075543013798</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>9d1d3790-d7f1-45f2-9c7a-d7fc43cb8b04</Id>
+		<Number>12148403</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T05:41:13.847</PublishDate>
+		<Debtor>
+			<Name>Клиент_9</Name>
+			<BirthDate>1957-11-12T00:00:00Z</BirthDate>
+			<BirthPlace>г. Новосибирск</BirthPlace>
+			<Address>Алтайский край, Поспелихинский р-н, с. Поспелиха, пер. 8 Марта, д. 35, кв. 21</Address>
+			<Inn>23453458454</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_77</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>КАУ "МФЦ АЛТАЙСКОГО КРАЯ"</Name>
+			<Inn>2221183155</Inn>
+			<Ogrn>1102225014330</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>ПАО Сбербанк</Name>
+				<Bik>044525225</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>Лапшина Галина Васильевна</CreditorName>
+					<Content>Возмещение ущерба</Content>
+					<Basis>Решение Поспелихинского суда Алтайского края по делу №2-3/2018 от 19.04.2018 г.</Basis>
+					<TotalSum>517400</TotalSum>
+					<DebtSum>438486.53</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Лапшина Галина Васильевна</CreditorName>
+					<Content>Судебные расходы</Content>
+					<Basis>Решение Поспелихинского суда Алтайского края по делу № 2-3/2018 от 19.04.2018г.</Basis>
+					<TotalSum>31675</TotalSum>
+					<DebtSum>18327.69</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>53edc449-faed-4342-81da-ad6a49b67be9</Id>
+		<Number>12148395</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T05:36:13.177</PublishDate>
+		<Debtor>
+			<Name>Клиент_10</Name>
+			<BirthDate>1974-11-03T00:00:00Z</BirthDate>
+			<BirthPlace>г. Челябинск</BirthPlace>
+			<Address>г. Омск, ул. Фугенфирова, д. 2, кв. 58</Address>
+			<Inn>853645667889</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>БУ "МФЦ"</Name>
+			<Inn>5503202108</Inn>
+			<Ogrn>1075543013798</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>1c89c75a-ed64-466a-9021-9c32038cb61c</Id>
+		<Number>12148621</Number>
+		<Type>returnOfApplicationOnExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T07:16:47.27</PublishDate>
+		<Debtor>
+			<Name>Клиент_11</Name>
+			<BirthDate>1958-05-19T00:00:00Z</BirthDate>
+			<BirthPlace>с. Эге-Хая Верхоянского р-на Якутской АССР</BirthPlace>
+			<Address>Иркутская область, Ангарск, мкр. Китой ДНТ Надежда, ул. Каратаева, д. 25</Address>
+			<Inn>710946367634</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГАУ "МФЦ ИО"</Name>
+			<Inn>3812140367</Inn>
+			<Ogrn>1123850015442</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о возврате гражданину поданного им заявления о признании гражданина банкротом во внесудебном порядке</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>70f6fde4-d101-47b2-85ea-13427fc0581c</Id>
+		<Number>12148605</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T07:11:59.527</PublishDate>
+		<Debtor>
+			<Name>Клиент_12</Name>
+			<BirthDate>1975-09-23T00:00:00Z</BirthDate>
+			<BirthPlace>г. Киров</BirthPlace>
+			<Address>Самарская обл., г. Тольятти, ул. Автостроителей, д. 22, кв. 30</Address>
+			<Inn>9215673687656</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>МАУ "МФЦ"</Name>
+			<Inn>6323061080</Inn>
+			<Ogrn>1036300993860</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>e35f9434-e7ff-4a13-b14e-501bfdcd7908</Id>
+		<Number>12148602</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T07:11:03.493</PublishDate>
+		<Debtor>
+			<Name>Клиент_13</Name>
+			<BirthDate>1965-08-20T00:00:00Z</BirthDate>
+			<BirthPlace>пос. Трудовое Симферопольского р-на Крымской обл.</BirthPlace>
+			<Address>Самарская обл., г. Тольятти, ул. Автостроителей, д. 88, кв. 7</Address>
+			<Inn>234256456</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_78</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>МАУ "МФЦ"</Name>
+			<Inn>6323061080</Inn>
+			<Ogrn>1036300993860</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>f4dc08a3-6a04-4ca2-b5f7-60e112d27245</Id>
+		<Number>12148556</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T07:06:12.727</PublishDate>
+		<Debtor>
+			<Name>Клиент_14</Name>
+			<BirthDate>1986-02-22T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Сысерть Свердловская обл.</BirthPlace>
+			<Address>Свердловская область, Сысертский район, г. Сысерть, пер Чернавской, д. 1</Address>
+			<Inn>28572314565</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГБУ СО "МФЦ"</Name>
+			<Inn>6670308345</Inn>
+			<Ogrn>1106670028981</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>99cb3ba3-a1d4-4d46-a8b3-2dd4b5b36785</Id>
+		<Number>12148580</Number>
+		<Type>returnOfApplicationOnExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T07:03:04.163</PublishDate>
+		<Debtor>
+			<Name>Клиент_15</Name>
+			<BirthDate>1995-01-21T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Иркутск</BirthPlace>
+			<Address>Иркутская область, Эхирит-Булагатский р-н, ул. Каландарашвили, д. 109</Address>
+			<Inn>7329026563</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГАУ "МФЦ ИО"</Name>
+			<Inn>3812140367</Inn>
+			<Ogrn>1123850015442</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о возврате гражданину поданного им заявления о признании гражданина банкротом во внесудебном порядке</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>b9636060-5207-4f15-bf88-bca4b89f685e</Id>
+		<Number>12148548</Number>
+		<Type>returnOfApplicationOnExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T06:49:02.99</PublishDate>
+		<Debtor>
+			<Name>Клиент_16</Name>
+			<BirthDate>1981-04-15T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Рубцовск Алтайского края</BirthPlace>
+			<Address>Алтайский край, г. Рубцовск, ул. Добродомова, дом №5, кв. 2</Address>
+		</Debtor>
+		<Publisher>
+			<Name>КАУ "МФЦ АЛТАЙСКОГО КРАЯ"</Name>
+			<Inn>2221183155</Inn>
+			<Ogrn>1102225014330</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о возврате гражданину поданного им заявления о признании гражданина банкротом во внесудебном порядке</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>22155fb2-1bce-46fb-b4d8-118b0746f7c3</Id>
+		<Number>12148471</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T06:45:26.06</PublishDate>
+		<Debtor>
+			<Name>Клиент_17</Name>
+			<BirthDate>1983-06-07T00:00:00Z</BirthDate>
+			<BirthPlace>Омская область, Большеуковский р-н, д. Коновалиха</BirthPlace>
+			<Address>Омская область, Большеуковский р-н, с. Большие Уки, ул. Гагарина, д. 1, кв. 3</Address>
+			<Inn>4459258567</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_79</Value>
+				</PreviousName>
+				<PreviousName>
+					<Value>Клиент_80</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>БУ "МФЦ ТЮКАЛИНСКОГО РАЙОНА ОМСКОЙ ОБЛАСТИ"</Name>
+			<Inn>5537009455</Inn>
+			<Ogrn>1105543037544</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>84652c1d-62e0-4c4a-8d4c-216950b08359</Id>
+		<Number>12148531</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T06:44:17.643</PublishDate>
+		<Debtor>
+			<Name>Клиент_18</Name>
+			<BirthDate>1991-06-03T00:00:00Z</BirthDate>
+			<BirthPlace>с. Усть-Багаряк Кунашакского р-на Челябинской обл.</BirthPlace>
+			<Address>Челябинская обл., г. Челябинск, ул. Молодогвардейцев, д. 68, кв. 170</Address>
+		</Debtor>
+		<Publisher>
+			<Name>ОГАУ "МФЦ ЧЕЛЯБИНСКОЙ ОБЛАСТИ"</Name>
+			<Inn>7453255521</Inn>
+			<Ogrn>1137453004810</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>ПАО "Сбербанк"</Name>
+				<Bik>044525225</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship>
+			<ObligatoryPayments>
+				<ObligatoryPayment>
+					<Name>Страховые взносы ОМС</Name>
+					<Sum>9288.96</Sum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Страховые взносы ОПС</Name>
+					<Sum>100651.53</Sum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Упрощенная система налогооблажения</Name>
+					<Sum>52547.81</Sum>
+				</ObligatoryPayment>
+			</ObligatoryPayments>
+		</CreditorsFromEntrepreneurship>
+		<CreditorsNonFromEntrepreneurship>
+			<ObligatoryPayments>
+				<ObligatoryPayment>
+					<Name>Исполнительский сбор (29924/18/74028-ИП от 10.06.2019 г.)</Name>
+					<Sum>13653.64</Sum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Исполнительский сбор (44767/18/74028-ИП от 10.06.2019 г.)</Name>
+					<Sum>27062</Sum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Исполнительский сбор (114422/22/74028-ИП от 19.07.2022 г.)</Name>
+					<Sum>2691.41</Sum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Исполнительский сбор (86829/22/74025-ИП от 06.07.2022 г.)</Name>
+					<Sum>9690.05</Sum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Страховые взносы (судебный приказ № 2А-240/2019 от 30.01.2019 г., ИП № 40050/19/74028 от 19.07.2019 г.)</Name>
+					<Sum>44653.99</Sum>
+				</ObligatoryPayment>
+			</ObligatoryPayments>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>5dab67fa-94d4-489e-872e-21a70a1a2f06</Id>
+		<Number>12148522</Number>
+		<Type>returnOfApplicationOnExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T06:41:00.547</PublishDate>
+		<Debtor>
+			<Name>Клиент_19</Name>
+			<BirthDate>1967-09-08T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Ташкент Ташкентская обл. Республика Узбекистан</BirthPlace>
+			<Address>Алтайский край, г. Рубцовск, ул. Комсомольская, д. 122, кв. 8</Address>
+			<Inn>682446476343</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_81</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>КАУ "МФЦ АЛТАЙСКОГО КРАЯ"</Name>
+			<Inn>2221183155</Inn>
+			<Ogrn>1102225014330</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о возврате гражданину поданного им заявления о признании гражданина банкротом во внесудебном порядке</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>2854d41d-42b6-4bba-aa0a-ff592921a4ed</Id>
+		<Number>12148496</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T06:32:42.597</PublishDate>
+		<Debtor>
+			<Name>Клиент_20</Name>
+			<BirthDate>1956-07-26T00:00:00Z</BirthDate>
+			<BirthPlace>с. Усть-Када Куйтунского района Иркутской области</BirthPlace>
+			<Address>Иркутская область, г. Саянск, мкр. Строителей, д. 7, кв. 1</Address>
+			<Inn>674534667564</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_82</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>ГАУ "МФЦ ИО"</Name>
+			<Inn>3812140367</Inn>
+			<Ogrn>1123850015442</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>АО "Пойдём"</Name>
+				<Bik>044525732</Bik>
+			</Bank>
+			<Bank>
+				<Name>Азиатско-Тихоокеанский банк</Name>
+				<Bik>048142744</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>АО КБ "Пойдём"</CreditorName>
+					<Content>кредит</Content>
+					<Basis>договор 4084-298425794-08904-810</Basis>
+					<TotalSum>145866</TotalSum>
+					<DebtSum>145866</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Азиатско-Тихоокеанский банк</CreditorName>
+					<Content>кредит</Content>
+					<Basis>договор 1464110550831 от 29.01.2020</Basis>
+					<TotalSum>105158</TotalSum>
+					<DebtSum>105158</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Азиатско Тихоокеанский банк</CreditorName>
+					<Content>кредит</Content>
+					<Basis>договор</Basis>
+					<TotalSum>106033</TotalSum>
+					<DebtSum>106033</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>5ce65ddb-fd04-49a2-b12f-668d0dbd4fdd</Id>
+		<Number>12148494</Number>
+		<Type>returnOfApplicationOnExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T06:32:03.563</PublishDate>
+		<Debtor>
+			<Name>Клиент_21</Name>
+			<BirthDate>1981-03-17T00:00:00Z</BirthDate>
+			<BirthPlace>г. Бийск Алтайского края</BirthPlace>
+			<Address>Алтайский край, гор. Бийск, ул. Пригородная, дом № 2, кв. 1</Address>
+			<Inn>4368522566</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_83</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>КАУ "МФЦ АЛТАЙСКОГО КРАЯ"</Name>
+			<Inn>2221183155</Inn>
+			<Ogrn>1102225014330</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о возврате гражданину поданного им заявления о признании гражданина банкротом во внесудебном порядке</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>d2e4a0bf-f8ef-4ec8-80e0-1dba6a163d65</Id>
+		<Number>12148855</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T08:06:47.797</PublishDate>
+		<Debtor>
+			<Name>Клиент_22</Name>
+			<BirthDate>1987-08-03T00:00:00Z</BirthDate>
+			<BirthPlace>с. Калинино Викуловского р-на Тюменской обл.</BirthPlace>
+			<Address>627570, Тюменская область, Викуловский район, село Викулово, ул. Дзержинского, д. 13, кв. 1</Address>
+			<Inn>93462478735</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГАУ ТО "МФЦ"</Name>
+			<Inn>7202246112</Inn>
+			<Ogrn>1137232022333</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>d3b51027-e15c-493a-829b-ce6fe4c38f8a</Id>
+		<Number>12148595</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T08:05:21.51</PublishDate>
+		<Debtor>
+			<Name>Клиент_23</Name>
+			<BirthDate>1992-11-24T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Оренбург Оренбургской область</BirthPlace>
+			<Address>Оренбургская обл, Оренбургский р-н, п. Ленина, ул. Молодежная, д. 31</Address>
+			<Inn>784235567832357</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_84</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>ГАУ "МФЦ"</Name>
+			<Inn>5609076774</Inn>
+			<Ogrn>1105658011458</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>ПАО "Совкомбанк"</Name>
+				<Bik>045004763</Bik>
+			</Bank>
+			<Bank>
+				<Name>АО "Тинькофф Банк"</Name>
+				<Bik>044525974</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО "Сбербанк России"</Name>
+				<Bik>045354601</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО "Банк ВТБ"</Name>
+				<Bik>043601968</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО "Финансовая Корпорация Открытие"</Name>
+				<Bik>044525297</Bik>
+			</Bank>
+			<Bank>
+				<Name>АО "Банк Русский Стандарт"</Name>
+				<Bik>044525151</Bik>
+			</Bank>
+			<Bank>
+				<Name>АО "Альфа-Банк"</Name>
+				<Bik>044525593</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>АО "Банк Русский Стандарт"</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>Кредитный договор от 12.08.2012г №98909527</Basis>
+					<TotalSum>6333.37</TotalSum>
+					<DebtSum>5325.14</DebtSum>
+					<PenaltySum>1008.23</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО "Совкомбанк"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор от 21.08.2021 №2388756346</Basis>
+					<TotalSum>9358.23</TotalSum>
+					<DebtSum>8358.23</DebtSum>
+					<PenaltySum>1000</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>МФК "Займер"</CreditorName>
+					<Content>Микрозайм</Content>
+					<Basis>Договор от 17.01.2021 №8749145</Basis>
+					<TotalSum>8700</TotalSum>
+					<DebtSum>7700</DebtSum>
+					<PenaltySum>1000</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Искандеров Марсель Забирович</CreditorName>
+					<Content>Имущественный вред причиненный в результате ДТП</Content>
+					<Basis>Решение Оренбургского районного суда от 21.07.2020г.</Basis>
+					<TotalSum>253577.28</TotalSum>
+					<DebtSum>236934.15</DebtSum>
+					<PenaltySum>16143.13</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Водопьянов Дмитрий Викторович</CreditorName>
+					<Content>Независимая экспертиза назначенная судом</Content>
+					<Basis>Решение Оренбургского районного суда от 21.07.2020</Basis>
+					<TotalSum>21182.76</TotalSum>
+					<DebtSum>20000</DebtSum>
+					<PenaltySum>1182.76</PenaltySum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>b6d45775-931b-46fa-af36-c1b24357f82d</Id>
+		<Number>12148827</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T08:02:36.607</PublishDate>
+		<Debtor>
+			<Name>Клиент_24</Name>
+			<BirthDate>1965-04-05T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Челябинск</BirthPlace>
+			<Address>Челябинская обл., г. Челябинск, ул. Воробьева, д. 1А</Address>
+			<Inn>72468534534534</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_85</Value>
+				</PreviousName>
+				<PreviousName>
+					<Value>Клиент_86</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>ОГАУ "МФЦ ЧЕЛЯБИНСКОЙ ОБЛАСТИ"</Name>
+			<Inn>7453255521</Inn>
+			<Ogrn>1137453004810</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>ООО "ХКФ Банк"</Name>
+				<Bik>044525245</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО "Сбербанк"</Name>
+				<Bik>047501602</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО "Финансовая корпорация Открытие"</Name>
+				<Bik>044525297</Bik>
+			</Bank>
+			<Bank>
+				<Name>АО "Почта Банк"</Name>
+				<Bik>044525214</Bik>
+			</Bank>
+			<Bank>
+				<Name>АО "Альфа Банк"</Name>
+				<Bik>044525593</Bik>
+			</Bank>
+			<Bank>
+				<Name>АО "Тинькофф Банк"</Name>
+				<Bik>044525974</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ООО "ХКФ Банк"</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>Кредитный договор № 2330532444 от 03.02.2020 г.</Basis>
+					<TotalSum>28299.48</TotalSum>
+					<DebtSum>28299.48</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО "ХКФ Банк"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор № 2330406421 от 01.02.2020 г.</Basis>
+					<TotalSum>35855.35</TotalSum>
+					<DebtSum>35855.35</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО "Челябэнергосбыт"</CreditorName>
+					<Content>ЖКХ</Content>
+					<Basis>л/ч 2883310000</Basis>
+					<TotalSum>4161.87</TotalSum>
+					<DebtSum>4161.87</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО "Тинькофф Банк"</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>Кредитный договор № 0449296367 от 20.12.2019 г.</Basis>
+					<TotalSum>61236.51</TotalSum>
+					<DebtSum>61236.51</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО "Альфа Банк"</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>Кредитный договор № PILCAHAFVA1908211606 от 21.08.2019 г.</Basis>
+					<TotalSum>69362.99</TotalSum>
+					<DebtSum>69362.99</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО "УТСК"</CreditorName>
+					<Content>ЖКХ</Content>
+					<Basis>л/ч 6007105156</Basis>
+					<TotalSum>3154.48</TotalSum>
+					<DebtSum>3154.48</DebtSum>
+					<PenaltySum>589.65</PenaltySum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+			<ObligatoryPayments>
+				<ObligatoryPayment>
+					<Name>Государственная пошлина по судебному приказу мирового судьи судебного участка № 3 Советского района г. Челябинска по делу 2-5051/2022 от 11.01.2023 г. </Name>
+					<Sum>628.4</Sum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Государственная пошлина по судебному приказу мирового судьи судебного участка № 1 Советского района г. Челябинска по делу 2-4630/2019 от 06.12.2019 г.</Name>
+					<Sum>200</Sum>
+				</ObligatoryPayment>
+			</ObligatoryPayments>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>b27d1992-0acd-4d8f-95d7-425fed70e386</Id>
+		<Number>12148709</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T07:50:07.287</PublishDate>
+		<Debtor>
+			<Name>Клиент_25</Name>
+			<BirthDate>1980-01-15T00:00:00Z</BirthDate>
+			<BirthPlace>г. Ангарск Иркутской обл.</BirthPlace>
+			<Address>Иркутская область, г. Ангарск, "Л" квартал, д. 1, кв. 24</Address>
+			<Inn>462342342</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГАУ "МФЦ ИО"</Name>
+			<Inn>3812140367</Inn>
+			<Ogrn>1123850015442</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>ООО "Феникс"</Name>
+			</Bank>
+			<Bank>
+				<Name>ПАО "Совкомбанк"</Name>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ООО Феникс</CreditorName>
+					<Content>кредит</Content>
+					<Basis>№ 0035971175 25.04.2013 г.</Basis>
+					<TotalSum>70000</TotalSum>
+					<DebtSum>53704.31</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО Совкомбанк</CreditorName>
+					<Content>кредит</Content>
+					<Basis>№ 5041957436 19.09.2014 г.</Basis>
+					<TotalSum>70408.2</TotalSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО Байкальская энергетическая компания</CreditorName>
+					<Content>коммунальные услуги</Content>
+					<Basis>№ 10605002603 коммунальные</Basis>
+					<TotalSum>56760.08</TotalSum>
+					<PenaltySum>15232.35</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>МУП Ангарский Водоканал</CreditorName>
+					<Content>коммунальные услуги</Content>
+					<Basis>коммунальные услуги</Basis>
+					<TotalSum>70457.32</TotalSum>
+					<PenaltySum>760.9</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО Агата-Плюс</CreditorName>
+					<Content>коммунальные услуги</Content>
+					<Basis>коммунальные услуги</Basis>
+					<TotalSum>15138.56</TotalSum>
+					<DebtSum>7615.15</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>1c7bcc22-dba4-47d3-9159-e8546a26e1fd</Id>
+		<Number>12148646</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T07:21:30.927</PublishDate>
+		<Debtor>
+			<Name>Клиент_26</Name>
+			<BirthDate>1958-05-21T00:00:00Z</BirthDate>
+			<BirthPlace>Совхоз Целинный Русско-Полянский р-н Омская обл.</BirthPlace>
+			<Address>646025 Омская обл, г. Исилькуль, ул. Лесная, д. 7, кв. 1</Address>
+			<Inn>3895234237674</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_87</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>БУ "МФЦ ИСИЛЬКУЛЬСКОГО РАЙОНА ОМСКОЙ ОБЛАСТИ"</Name>
+			<Inn>5523005450</Inn>
+			<Ogrn>1105543037753</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>6a7213cf-8908-4398-a50d-13a7bb50fba1</Id>
+		<Number>12148687</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T07:33:03.237</PublishDate>
+		<Debtor>
+			<Name>Клиент_27</Name>
+			<BirthDate>1988-04-15T00:00:00Z</BirthDate>
+			<BirthPlace>Челябинская обл., гор.Златоуст</BirthPlace>
+			<Address>Челябинская обл., г.Златоуст, ул.8 Марта, д.75</Address>
+			<Inn>67679237647</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_88</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>ОГАУ "МФЦ ЧЕЛЯБИНСКОЙ ОБЛАСТИ"</Name>
+			<Inn>7453255521</Inn>
+			<Ogrn>1137453004810</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>df449f32-6de6-4a89-8c50-f0a8a63ff7bd</Id>
+		<Number>12148691</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T07:34:18.09</PublishDate>
+		<Debtor>
+			<Name>Клиент_28</Name>
+			<BirthDate>1971-01-16T00:00:00Z</BirthDate>
+			<BirthPlace>г. Абакан Красноярский край</BirthPlace>
+			<Address>Республика Хакасия, г. Абакан, ул. Кирова, д.97 кв. 73</Address>
+			<Inn>156545301</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГАУ РХ "МФЦ ХАКАСИИ"</Name>
+			<Inn>1901093926</Inn>
+			<Ogrn>1101901000915</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>3b8e8e3d-aa15-419e-9b05-829609cb4e78</Id>
+		<Number>12148726</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T07:41:24.917</PublishDate>
+		<Debtor>
+			<Name>Клиент_29</Name>
+			<BirthDate>1989-03-14T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Кызыл</BirthPlace>
+			<Address>Республика Хакасия, г. Абакан, ул. Торговая, д.10 кв.75</Address>
+			<Inn>656340380</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_89</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>ГАУ РХ "МФЦ ХАКАСИИ"</Name>
+			<Inn>1901093926</Inn>
+			<Ogrn>1101901000915</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>bc80a80d-deff-4235-888e-b245fd6985a0</Id>
+		<Number>12149369</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T09:14:12.01</PublishDate>
+		<Debtor>
+			<Name>Клиент_30</Name>
+			<BirthDate>1980-10-20T00:00:00Z</BirthDate>
+			<BirthPlace>д. Андроново Духовщинский район Смоленская область</BirthPlace>
+			<Address>Смоленская область, Духовщинский район, д. Андроново, ул. Луговая, д.6</Address>
+			<Inn>774466978978</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>СОГБУ МФЦ</Name>
+			<Inn>6732028037</Inn>
+			<Ogrn>1116732014673</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>b3762cdb-53f3-4462-90a1-4cdcbf98b39b</Id>
+		<Number>12149365</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T09:13:49.983</PublishDate>
+		<Debtor>
+			<Name>Клиент_31</Name>
+			<BirthDate>1987-04-20T00:00:00Z</BirthDate>
+			<BirthPlace>С. АГОЙ ТУАПСИНСКИЙ П-Н КРАСНОДАРСКИЙ КРАЙ</BirthPlace>
+			<Address>Пензенская область, Белинский район, город Белинский улица Белинская дом 23, квартира 5</Address>
+			<Inn>5655644724</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_90</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>МАУ "МФЦ БЕЛИНСКОГО РАЙОНА ПЕНЗЕНСКОЙ ОБЛАСТИ"</Name>
+			<Inn>5810007691</Inn>
+			<Ogrn>1105802000820</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>2e1b4397-ca25-4247-9996-97309d8c72ac</Id>
+		<Number>12149215</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T08:56:05.243</PublishDate>
+		<Debtor>
+			<Name>Клиент_32</Name>
+			<BirthDate>1983-02-09T00:00:00Z</BirthDate>
+			<BirthPlace>ГОР. КОСТОМУКША РЕСП. КАРЕЛИЯ</BirthPlace>
+			<Address>г.Волгоград, ул.Колосовая, д.37</Address>
+			<Inn>38246632323</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГКУ ВО "МФЦ"</Name>
+			<Inn>3435304433</Inn>
+			<Ogrn>1133435002216</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>c0bfeedd-8113-4a5c-9f2a-8df47836f429</Id>
+		<Number>12149185</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T08:53:51.103</PublishDate>
+		<Debtor>
+			<Name>Клиент_33</Name>
+			<BirthDate>1986-02-03T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Устинов</BirthPlace>
+			<Address>Удмуртская Республика, гор. Ижевск, ул. Демократическая, дом 49, кв.31</Address>
+			<Inn>1838855723</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_91</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>АУ "МФЦ УР"</Name>
+			<Inn>1833049323</Inn>
+			<Ogrn>1081840005026</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>ПАО Сбербанк России Удмуртское отделение №8618</Name>
+				<Bik>049401601</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк России Удмуртское отделение №8618</CreditorName>
+					<Content>Потребительский кредит</Content>
+					<Basis>Судебный приказ №2-204/2017 от 17.02.2017 выданный органом: Судебный участок №4 Первомайского района г. Ижевска Удмуртской Республики</Basis>
+					<TotalSum>324043.91</TotalSum>
+					<DebtSum>324043.91</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>e6c7822d-c89a-4254-9568-f36023de4d16</Id>
+		<Number>12149192</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T08:53:33.907</PublishDate>
+		<Debtor>
+			<Name>Клиент_34</Name>
+			<BirthDate>1976-04-12T00:00:00Z</BirthDate>
+			<BirthPlace>пгт. Добринка Добринский район Липецкая область</BirthPlace>
+			<Address>Липецкая область Добринский район п.Добринка ул.Кооперативная д.7 кв. 9</Address>
+			<Inn>48228845000</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ОБУ "УМФЦ ЛИПЕЦКОЙ ОБЛАСТИ"</Name>
+			<Inn>4823057137</Inn>
+			<Ogrn>1134827002518</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>АО " ОТП банк"</Name>
+				<Bik>044575311</Bik>
+			</Bank>
+			<Bank>
+				<Name>АО " Тиньковбанк"</Name>
+				<Bik>044525974</Bik>
+			</Bank>
+			<Bank>
+				<Name>Филиал " Центральный" ПАО Совкомбанк"</Name>
+				<Bik>045004763</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>АО "ОТП банк"</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>Договор № 2548024964 от 17.01.2013</Basis>
+					<TotalSum>40000</TotalSum>
+					<DebtSum>87524.14</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО " Тиньковбанк"</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>Договор № 0023020126 от 13.02.2012</Basis>
+					<TotalSum>25000</TotalSum>
+					<DebtSum>61584.1</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО " Совкомбанк"</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>Договор № 7976056578 от 20.04.2023</Basis>
+					<TotalSum>150000</TotalSum>
+					<DebtSum>155357.82</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>a3d8de64-4689-4e1f-b30b-c7cc27acbaf3</Id>
+		<Number>12149130</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T08:46:13.68</PublishDate>
+		<Debtor>
+			<Name>Клиент_35</Name>
+			<BirthDate>1968-01-10T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Череповец Вологодской обл.</BirthPlace>
+			<Address>Вологодская обл., г. Череповец, Клубный пр., д. 6, кв. 24</Address>
+			<Inn>7028679995345</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>МБУ "МФЦ В Г. ЧЕРЕПОВЦЕ"</Name>
+			<Inn>3528203653</Inn>
+			<Ogrn>1133528006974</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>55cbbb2f-e010-4afe-b3f9-2e96f6890b70</Id>
+		<Number>12146184</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T08:42:45.51</PublishDate>
+		<Debtor>
+			<Name>Клиент_36</Name>
+			<BirthDate>1985-10-06T00:00:00Z</BirthDate>
+			<BirthPlace>с.Кесало Гардаванского р-на Грузинской ССР</BirthPlace>
+			<Address>Ставропольский край г.Ессентуки ул.Долина Роз д.12 кв.67</Address>
+			<Inn>670212565469</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>МАУ "МФЦ" Г. ЕССЕНТУКИ</Name>
+			<Inn>2626800631</Inn>
+			<Ogrn>1112651032977</Ogrn>
+		</Publisher>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ПАО «Сбербанк»</CreditorName>
+					<Content>кредит</Content>
+					<Basis>Кредитная карта № 4276 0152 4466 58 13.
+
+Судебный приказ от 23.04.2021 г. № 2-2209/32-531/21</Basis>
+					<TotalSum>302051.81</TotalSum>
+					<DebtSum>282852.16</DebtSum>
+					<PenaltySum>19799.65</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Ибрагимов Р.Р О</CreditorName>
+					<Content>Договор займа</Content>
+					<Basis>Судебный приказ от 27.03.2023 г. № 2-852-09-433/2023 Судебный участок № 4 г. Ессентуки Ставропольского края</Basis>
+					<TotalSum>5200</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Постановление судебного пристава-исполнителя от 24.10.2019 № 26041/19/237820</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Постановление судебного пристава-исполнителя от 24.10.2019 № 26041/19/237818</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Постановление судебного пристава-исполнителя от 24.10.2019 № 26041/19/237817</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Постановление судебного пристава-исполнителя от 24.10.2019 № 26041/19/237815</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Постановление судебного пристава-исполнителя от 24.10.2019 № 26041/19/237816</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Постановление судебного пристава-исполнителя от 13.09.2019 № 26041/19/202904</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Постановление судебного пристава-исполнителя от 13.09.2019 № 26041/19/203147</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Постановление судебного пристава-исполнителя от 19.10.2020 № 26041/20/329007</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Постановление судебного пристава-исполнителя от 19.10.2020 № 26041/20/329006</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Постановление судебного пристава-исполнителя от 24.10.2019 № 26041/19/237819</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Постановление судебного пристава-исполнителя от 24.10.2019 № 26041/19/237822</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Государственная пошлина</CreditorName>
+					<Content>Государственная пошлина</Content>
+					<Basis>Исполнительный лист от 25.12.2022 № 02А-0214/4/2022#1</Basis>
+					<TotalSum>640.7</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Исполнительный лист от 25.12.2022 № 02А-0214/4/2022#1</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Судебный приказ от 21.04.2022 № 2А-163/2022</Basis>
+					<TotalSum>2522.07</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Государственная пошлина</CreditorName>
+					<Content>Государственная пошлина</Content>
+					<Basis>Исполнительный лист 11.07.2022 № 02А-0163/4/2022#1</Basis>
+					<TotalSum>640.44</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Исполнительный лист 11.07.2022 № 02А-0163/4/2022#1</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Государственная пошлина</CreditorName>
+					<Content>Государственная пошлина</Content>
+					<Basis>Исполнительный лист 13.07.2022 № 02А-0092/4/2022#1</Basis>
+					<TotalSum>777.8</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Исполнительный лист 13.07.2022 № 02А-0092/4/2022#1</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Судебный приказ от 07.07.2022 № 2А-214/2022 Постановление о взыскании исполнительского сбора</Basis>
+					<TotalSum>2523.24</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Судебный приказ от 16.02.2022 № 2А-92/2022</Basis>
+					<TotalSum>3163.05</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Исполнительский сбор</CreditorName>
+					<Content>Исполнительский сбор</Content>
+					<Basis>Постановление судебного пристава-исполнителя от 24.10.2019 № 26041/19/237821</Basis>
+					<TotalSum>1000</TotalSum>
+					<DebtSum>0</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+			<ObligatoryPayments>
+				<ObligatoryPayment>
+					<Name>Налог Судебный приказ от 13.11.2019 № 2А-730-21-478/2019 Судебный участок № 4 Ленинского района г. Ставрополя</Name>
+					<Sum>32778.09</Sum>
+					<PenaltySum>0</PenaltySum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Налог ( Судебный приказ от 18.05.2020 № 2А-461-21-479/2020 Судебный участок № 4 Ленинского района г. Ставрополя</Name>
+					<Sum>13049.36</Sum>
+					<PenaltySum>0</PenaltySum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Налог Судебный приказ от 21.04.2022 № 2А-163/2022 </Name>
+					<Sum>36029.66</Sum>
+					<PenaltySum>0</PenaltySum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Налог Судебный приказ от 07.07.2022 № 2А-214/2022</Name>
+					<Sum>36046.42</Sum>
+					<PenaltySum>0</PenaltySum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Налог Судебный приказ от 16.02.2022 № 2А-92/2022</Name>
+					<Sum>45186.57</Sum>
+					<PenaltySum>0</PenaltySum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Штраф ГИБДД Акт по делу об административном правонарушении  от 05.02.2022 г. № 1881002621100682031 ОБ ДПС ГИБДД г. Пятигорск ГУ МВД России по Ставропольскому краю</Name>
+					<Sum>500</Sum>
+					<PenaltySum>0</PenaltySum>
+				</ObligatoryPayment>
+			</ObligatoryPayments>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>04095857-5023-4858-9a4b-a11ad618c0d8</Id>
+		<Number>12149094</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T08:41:47.763</PublishDate>
+		<Debtor>
+			<Name>Клиент_37</Name>
+			<BirthDate>1994-09-08T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Курчатов Курской обл.</BirthPlace>
+			<Address>Курская обл.,Курчатовский р-н, пгт. Иванино, ул. Механизаторов 2-я, д.3</Address>
+			<Inn>3402862348574</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_92</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>АУ КО "МФЦ"</Name>
+			<Inn>4632093423</Inn>
+			<Ogrn>1084632004874</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>291c1466-fd26-448f-ae1b-145291c99809</Id>
+		<Number>12149096</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T08:41:21.8</PublishDate>
+		<Debtor>
+			<Name>Клиент_38</Name>
+			<BirthDate>1984-04-22T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Челябинск</BirthPlace>
+			<Address>Челябинская обл., г. Челябинск, ул. Чайковского, д. 183, кв. 24</Address>
+			<Inn>368935703216</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ОГАУ "МФЦ ЧЕЛЯБИНСКОЙ ОБЛАСТИ"</Name>
+			<Inn>7453255521</Inn>
+			<Ogrn>1137453004810</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>АО "Тинькофф Банк"</Name>
+				<Bik>044525974</Bik>
+			</Bank>
+			<Bank>
+				<Name>АО "Банк Русский стандарт"</Name>
+				<Bik>044525151</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>АО "Тинькофф Банк"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>кредитный договор № 0017985581 от 22.08.2011 г.</Basis>
+					<TotalSum>100506.69</TotalSum>
+					<DebtSum>100506.69</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО "Банк Русский стандарт"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор № 86334775 от 22.11.2010 г.</Basis>
+					<TotalSum>174286.04</TotalSum>
+					<DebtSum>174286.04</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО "Банк Русский стандарт"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор № 105196941 от 08.04.2013 г.</Basis>
+					<TotalSum>122682.28</TotalSum>
+					<DebtSum>122682.28</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО "Банк Русский стандарт"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор № 94801701 от 20.01.2012 г.</Basis>
+					<TotalSum>60720.51</TotalSum>
+					<DebtSum>60720.51</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>59ffe7cb-9d65-4111-b860-9ad66a88ded8</Id>
+		<Number>12149019</Number>
+		<Type>returnOfApplicationOnExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T08:33:19.627</PublishDate>
+		<Debtor>
+			<Name>Клиент_39</Name>
+			<BirthDate>1995-07-28T00:00:00Z</BirthDate>
+			<BirthPlace>г. Ульяновск</BirthPlace>
+			<Address>гор. Ульяновск, б-р Киевский, д. 9, кв. 33</Address>
+			<Inn>5457930017</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_93</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>ОГКУ "ПРАВИТЕЛЬСТВО ДЛЯ ГРАЖДАН"</Name>
+			<Inn>7325048537</Inn>
+			<Ogrn>1047300994267</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о возврате гражданину поданного им заявления о признании гражданина банкротом во внесудебном порядке</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>ba277eb9-549f-44aa-b842-384983da0862</Id>
+		<Number>12149015</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T08:31:47.513</PublishDate>
+		<Debtor>
+			<Name>Клиент_40</Name>
+			<BirthDate>1987-05-29T00:00:00Z</BirthDate>
+			<BirthPlace>пос. Улу-Юл Первомайского р-на Томской обл.</BirthPlace>
+			<Address>Томская область, Первомайский р-н, п. Улу-Юл, Крайняя, д.1а, кв.2</Address>
+			<Inn>26784002377</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ОГКУ "ТО МФЦ"</Name>
+			<Inn>7017249214</Inn>
+			<Ogrn>1097017018262</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>53391e4d-9d06-4682-b86a-826400daf07f</Id>
+		<Number>12148968</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T08:28:39.907</PublishDate>
+		<Debtor>
+			<Name>Клиент_41</Name>
+			<BirthDate>1971-01-04T00:00:00Z</BirthDate>
+			<BirthPlace>гор.Краснодар</BirthPlace>
+			<Address>г.Краснодар ул.Гаражная д.81 корп.1 кв.34</Address>
+			<Inn>3006689458</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГАУ КК "МФЦ КК"</Name>
+			<Inn>2310173039</Inn>
+			<Ogrn>1132310009611</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>АО "Тинькофф Банк"</Name>
+				<Bik>044525974</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО "Совкомбанк"</Name>
+				<Bik>044525360</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>АО "Тинькофф Банк"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Договор №0692026966 от 06.01.2022</Basis>
+					<TotalSum>229165.12</TotalSum>
+					<DebtSum>165100.5</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО "Совкомбанк"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Договор №4646960157 от 02.12.2021</Basis>
+					<TotalSum>32689.19</TotalSum>
+					<DebtSum>32689.19</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО "Совкомбанк"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Договор №4647188886 от 02.12.2021</Basis>
+					<TotalSum>161664.61</TotalSum>
+					<DebtSum>149250</DebtSum>
+					<PenaltySum>0</PenaltySum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>4d9357a6-678f-4a73-9e78-0f080d34f178</Id>
+		<Number>12150143</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T10:19:29.083</PublishDate>
+		<Debtor>
+			<Name>Клиент_42</Name>
+			<BirthDate>1962-07-21T00:00:00Z</BirthDate>
+			<BirthPlace>ст. Комарихинская Чусовской р-н Пермская обл.</BirthPlace>
+			<Address>Свердловская обл., г. Артемовский, пер. Парковый, д. 15</Address>
+			<Inn>8334556755557</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_94</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>ГБУ СО "МФЦ"</Name>
+			<Inn>6670308345</Inn>
+			<Ogrn>1106670028981</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>АО "Почта Банк"</Name>
+				<Bik>044525214</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО "Сбербанк"</Name>
+				<Bik>044525225</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ООО "АРС Финанс" (ПАО НБ "Траст")</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор № 2055554541 от 31.08.2012</Basis>
+					<TotalSum>100000</TotalSum>
+					<DebtSum>100000</DebtSum>
+					<PenaltySum>3200</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО "РСВ"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Судебный приказ судебного участка № 1, в котором создан Артемовский городской суд Свердловской области, от 19.03.2019 № 2-526/2019</Basis>
+					<TotalSum>7002.52</TotalSum>
+					<DebtSum>7002.52</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО МКК "КВ Деньги людям"</CreditorName>
+					<Content>Заем</Content>
+					<Basis>Договор займа КЗ1908840 от 06.02.2023</Basis>
+					<TotalSum>17027.4</TotalSum>
+					<DebtSum>17027.4</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО "Энергосбыт Плюс"</CreditorName>
+					<Content>Жилищно-коммунальные услуги</Content>
+					<Basis>Л/С 5739305864; Л/С 3258597133</Basis>
+					<TotalSum>3149.37</TotalSum>
+					<DebtSum>3149.37</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ОАО "Объединенная теплоснабжающая компания"</CreditorName>
+					<Content>Жилищно-коммунальные услуги</Content>
+					<Basis>Л/С 66020012251</Basis>
+					<TotalSum>12034.06</TotalSum>
+					<DebtSum>12034.06</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>0e5aac5b-8463-487a-a801-ed266ead88ba</Id>
+		<Number>12150102</Number>
+		<Type>returnOfApplicationOnExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T10:15:41.857</PublishDate>
+		<Debtor>
+			<Name>Клиент_43</Name>
+			<BirthDate>1982-10-05T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Киренск Иркутской обл.</BirthPlace>
+			<Address>Респ Бурятия, г Улан-Удэ, Железнодорожный р-н, ул Авиационная, д 68, кв 3/1</Address>
+			<Inn>4092743898</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГБУ "МФЦ РБ"</Name>
+			<Inn>0326478258</Inn>
+			<Ogrn>1080326008729</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о возврате гражданину поданного им заявления о признании гражданина банкротом во внесудебном порядке</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>1336b64f-6d9d-49cb-b576-7eee1be8cb73</Id>
+		<Number>12150059</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T10:13:34.913</PublishDate>
+		<Debtor>
+			<Name>Клиент_44</Name>
+			<BirthDate>1987-09-27T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Томск</BirthPlace>
+			<Address>634021, Томская обл, г Томск, ул Елизаровых, д 72, кв 87</Address>
+			<Inn>3411455475300</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ОГКУ "ТО МФЦ"</Name>
+			<Inn>7017249214</Inn>
+			<Ogrn>1097017018262</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>АО "Банк Русский Стандарт"</Name>
+				<Bik>044525151</Bik>
+			</Bank>
+			<Bank>
+				<Name>ОАО "Альфа-Банк"</Name>
+				<Bik>046902794</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>Банк "Русский Стандарт"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор №100269246 от 29.09.2012</Basis>
+					<TotalSum>61458.51</TotalSum>
+					<DebtSum>61458.51</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Альфа-Банк</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор №M0LL0210S13070507711 от 05.07.2013</Basis>
+					<TotalSum>31211.72</TotalSum>
+					<DebtSum>31211.72</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>402f72d2-cfe4-490a-99ff-251223d06bac</Id>
+		<Number>12150067</Number>
+		<Type>returnOfApplicationOnExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T10:12:31.447</PublishDate>
+		<Debtor>
+			<Name>Клиент_45</Name>
+			<BirthDate>1976-11-16T00:00:00Z</BirthDate>
+			<BirthPlace>г. Вологда</BirthPlace>
+			<Address>Вологодская обл., г. Вологда, ул. Машиностроительная, д. 4, кв. 68</Address>
+			<Inn>4926737700</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>МКУ "ВОЛОГОДСКИЙ ГОРОДСКОЙ МФЦ"</Name>
+			<Inn>3525153482</Inn>
+			<Ogrn>1053500100609</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о возврате гражданину поданного им заявления о признании гражданина банкротом во внесудебном порядке</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>25b0fd2f-81de-486d-9aae-593a78e1ab0f</Id>
+		<Number>12149918</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T10:06:42.16</PublishDate>
+		<Debtor>
+			<Name>Клиент_46</Name>
+			<BirthDate>1962-09-14T00:00:00Z</BirthDate>
+			<BirthPlace>с. Гиска Тираспольского р-на Молдавской ССР</BirthPlace>
+			<Address>Рязанская область, Кадомский район, р.п. Кадом, ул. Батышева, д. 74</Address>
+			<Inn>3790468357863</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_95</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>ГБУ РО "МФЦ РЯЗАНСКОЙ ОБЛАСТИ"</Name>
+			<Inn>6234116361</Inn>
+			<Ogrn>1136234005115</Ogrn>
+		</Publisher>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>Договор № 0268-р-651788005 от 08.10.2012 г.</Basis>
+					<TotalSum>45000</TotalSum>
+					<DebtSum>63031.21</DebtSum>
+					<PenaltySum>18031.21</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Договор №521134 от 06.12.2017 г.</Basis>
+					<TotalSum>97000</TotalSum>
+					<DebtSum>94075.54</DebtSum>
+					<PenaltySum>2924.46</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Договор №317287 от 07.06.2018 г.</Basis>
+					<TotalSum>45000</TotalSum>
+					<DebtSum>48085.04</DebtSum>
+					<PenaltySum>3085.04</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Договор №235764 от 15.04.2019 г.</Basis>
+					<TotalSum>48000</TotalSum>
+					<DebtSum>67066.07</DebtSum>
+					<PenaltySum>19066.07</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО "Столичное АВД"</CreditorName>
+					<Content>Займ</Content>
+					<Basis>Договор №11-2976577-2019 от 23.12.2019 г.</Basis>
+					<TotalSum>30000</TotalSum>
+					<DebtSum>39834.3</DebtSum>
+					<PenaltySum>9834.3</PenaltySum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>376b4c4d-1641-4215-bdc3-58f8fcd17997</Id>
+		<Number>12149812</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T09:55:37.123</PublishDate>
+		<Debtor>
+			<Name>Клиент_47</Name>
+			<BirthDate>1979-12-13T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Наро-Фоминск Московской обл.</BirthPlace>
+			<Address>Московская область г. Наро-Фоминск д. Чешково д.25а</Address>
+			<Inn>8759433656566</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_96</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>МКУ МФЦ НАРО-ФОМИНСКОГО ГОРОДСКОГО ОКРУГА</Name>
+			<Inn>5030083388</Inn>
+			<Ogrn>1145030001786</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>ПАО Сбербанк</Name>
+				<Bik>044525225</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Судебный приказ от 21.10.2022 №2-2388/2022 Судебный участок №136 Мирового судьи Наро-Фоминского судебного района Московской области 7707083893</Basis>
+					<TotalSum>189460.56</TotalSum>
+					<DebtSum>189460.56</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Исполнительный лист от 05.10.2022 №ВС 076869581 Судебный участок №134 Мирового судьи Наро-Фоминского судебного района Московской области 7709957219</Basis>
+					<TotalSum>19585</TotalSum>
+					<DebtSum>19585</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Судебный приказ от 15.08.2022 №2-2099/2022 Судебный участок №134 Мирового судьи Наро-Фоминского судебного района Московской области 7710140679</Basis>
+					<TotalSum>10391.5</TotalSum>
+					<DebtSum>10391.5</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Судебный приказ от 23.11.2021 №2-2138/2021 Судебный участок №134 Мирового судьи Наро-Фоминского судебного района Московской области 7710140679</Basis>
+					<TotalSum>114780.5</TotalSum>
+					<DebtSum>114780.5</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>1466d01f-0670-4507-91ec-e88c35df8170</Id>
+		<Number>12149802</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T09:53:31.973</PublishDate>
+		<Debtor>
+			<Name>Клиент_48</Name>
+			<BirthDate>1964-04-13T00:00:00Z</BirthDate>
+			<BirthPlace>гор.Чита</BirthPlace>
+			<Address>Забайкальский край, гор. Чита, 5 микрорайон, д. 30, кв. 97</Address>
+			<Inn>8043687337878</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_97</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>КГАУ "МФЦ ЗАБАЙКАЛЬСКОГО КРАЯ"</Name>
+			<Inn>7535002338</Inn>
+			<Ogrn>1027501155550</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>a037afd6-026a-4ecf-8a02-294102990f36</Id>
+		<Number>12149752</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T09:52:36.123</PublishDate>
+		<Debtor>
+			<Name>Клиент_49</Name>
+			<BirthDate>1989-12-28T00:00:00Z</BirthDate>
+			<BirthPlace>с. Бердюжье Бердюжского р-на Тюменской обл.</BirthPlace>
+			<Address>627440, Тюменская обл., Бердюжский р-н, с. Бердюжье, ул. Ленина, д. 15, кв. 6</Address>
+			<Inn>89033453786</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_98</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>ГАУ ТО "МФЦ"</Name>
+			<Inn>7202246112</Inn>
+			<Ogrn>1137232022333</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>ООО Энигма</Name>
+				<Bik>044525823</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО КБ Восточный</Name>
+				<Bik>041012718</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО Совкомбанк</Name>
+				<Bik>045004763</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО Сбербанк</Name>
+				<Bik>044525225</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ПАО КБ "Восточный"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный Договор №20/8836/00000/100749 от 22.05.2020г</Basis>
+					<TotalSum>100000</TotalSum>
+					<DebtSum>120628.42</DebtSum>
+					<PenaltySum>1806.42</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО "Энигма"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор №803 от 18.09.2013г</Basis>
+					<TotalSum>40000</TotalSum>
+					<DebtSum>50647.47</DebtSum>
+					<PenaltySum>1323.79</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО "Энигма"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный Договор № 9790003 от 15.05.2014</Basis>
+					<TotalSum>60000</TotalSum>
+					<DebtSum>53810.31</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО "Совкомбанк"</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>Кредитный Договор № 20/8836/00000/100750/100750 (4407827667) от 22.05.2022</Basis>
+					<TotalSum>30000</TotalSum>
+					<DebtSum>57024.51</DebtSum>
+					<PenaltySum>13454.23</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО "Сбербанк"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный Договор № 99374 от 07.03.2013</Basis>
+					<TotalSum>100000</TotalSum>
+					<DebtSum>5277.94</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>eb5cbcf8-4dab-416f-bab0-8504cec8ff86</Id>
+		<Number>12149580</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T09:37:24.513</PublishDate>
+		<Debtor>
+			<Name>Клиент_50</Name>
+			<BirthDate>1969-12-08T00:00:00Z</BirthDate>
+			<BirthPlace>дер.Светица Тотемского района Вологодской области</BirthPlace>
+			<Address>Вологодская область, Тотемский район, пос. Советский, ул. Садовая, дом 35, кв.3</Address>
+			<Inn>783367435789</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_99</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>МБУ "МФЦ ТОТЕМСКОГО ОКРУГА"</Name>
+			<Inn>3518006688</Inn>
+			<Ogrn>1153525007019</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>6fbc79b4-de7e-4573-bed5-6ef8fa50a0bc</Id>
+		<Number>12149476</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T09:29:05.653</PublishDate>
+		<Debtor>
+			<Name>Клиент_51</Name>
+			<BirthDate>1970-12-08T00:00:00Z</BirthDate>
+			<BirthPlace>д. Волкова-Слабодка Железногорский р-он Курская обл.</BirthPlace>
+			<Address>Курская область, г. Железногорск, пер. Детский, д.9, кв. 9</Address>
+			<Inn>93578378567</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>АУ КО "МФЦ"</Name>
+			<Inn>4632093423</Inn>
+			<Ogrn>1084632004874</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>Банк ВТБ (ПАО)</Name>
+				<Bik>044525187</Bik>
+			</Bank>
+			<Bank>
+				<Name>ООО "ХКФ Банк"</Name>
+				<Bik>044525245</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО "Сбербанк"</Name>
+				<Bik>043807606</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО "Совкомбанк"</Name>
+				<Bik>043469743</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор № 656312  от 12.10.2021</Basis>
+					<TotalSum>146058.84</TotalSum>
+					<DebtSum>146058.84</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор № 358994 от 19.06.2021</Basis>
+					<TotalSum>74289.87</TotalSum>
+					<DebtSum>74289.87</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>5b0133b7-758f-409b-8024-511d49270a5b</Id>
+		<Number>12151090</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T11:16:29.117</PublishDate>
+		<Debtor>
+			<Name>Клиент_52</Name>
+			<BirthDate>1966-04-30T00:00:00Z</BirthDate>
+			<BirthPlace>с. Пробуждение Черлакского р-на Омской обл.</BirthPlace>
+			<Address>Омская обл., Черлакский р-он, р.пос. Черлак, ул. Пионерская д. 56</Address>
+			<Inn>68823347800896</Inn>
+			<Snils>06549248188</Snils>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_100</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>БУ "МФЦ КАЛАЧИНСКОГО РАЙОНА ОМСКОЙ ОБЛАСТИ"</Name>
+			<Inn>5515200232</Inn>
+			<Ogrn>1105543037687</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>82057992-ab59-42c8-825b-cb99d758ce61</Id>
+		<Number>12151035</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T11:14:05.687</PublishDate>
+		<Debtor>
+			<Name>Клиент_53</Name>
+			<BirthDate>1956-04-20T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Рубежное Луганская обл.</BirthPlace>
+			<Address>Московская обл., г. Ногинск, ул. Ремесленная, д. 6, кв. 73</Address>
+			<Inn>05767346772847</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>МАУ БОГОРОДСКОГО ГОРОДСКОГО ОКРУГА "МФЦ"</Name>
+			<Inn>5031110235</Inn>
+			<Ogrn>1145031001323</Ogrn>
+		</Publisher>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>АО "Альфа-банк"</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>№FOODRC20S210615241 от 16.06.2021</Basis>
+					<TotalSum>54443.77</TotalSum>
+					<DebtSum>54443.77</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО "Почта-банк"</CreditorName>
+					<Content>кредит</Content>
+					<Basis>№61772438 от 07.06.2022</Basis>
+					<TotalSum>268284.25</TotalSum>
+					<DebtSum>267084.76</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО "Сбербанк"</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>№40ТКПР22112900104103</Basis>
+					<TotalSum>72767.28</TotalSum>
+					<DebtSum>15278.04</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>28674c3e-526a-4a99-b8d7-8ae3b03ec2aa</Id>
+		<Number>12150958</Number>
+		<Type>returnOfApplicationOnExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T11:09:17.53</PublishDate>
+		<Debtor>
+			<Name>Клиент_54</Name>
+			<BirthDate>1958-08-01T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Казань</BirthPlace>
+			<Address>Республика Татарстан, Лаишевский р-н, с. Усады, тер. СНТ Танкист, д. 196А</Address>
+			<Inn>71937500643</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_101</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>ГБУ МФЦ В РЕСПУБЛИКЕ ТАТАРСТАН</Name>
+			<Inn>1659131896</Inn>
+			<Ogrn>1131690043704</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о возврате гражданину поданного им заявления о признании гражданина банкротом во внесудебном порядке</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>f08ddac3-5c48-4dae-8a01-82d62f7e657c</Id>
+		<Number>12150925</Number>
+		<Type>returnOfApplicationOnExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T11:07:06.367</PublishDate>
+		<Debtor>
+			<Name>Клиент_55</Name>
+			<BirthDate>1975-09-19T00:00:00Z</BirthDate>
+			<BirthPlace>д. Моховица Орловский р-н Орловская обл.</BirthPlace>
+			<Address>Орловская обл, Орловский р-н, с. Моховица, ул. Центральная, д. 24 кв. 12</Address>
+		</Debtor>
+		<Publisher>
+			<Name>БУ ОО "МФЦ"</Name>
+			<Inn>5753007212</Inn>
+			<Ogrn>1025700831067</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о возврате гражданину поданного им заявления о признании гражданина банкротом во внесудебном порядке</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>1ffb5217-a5ae-46ab-96ba-8cb823fb26b2</Id>
+		<Number>12150711</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T10:54:55.12</PublishDate>
+		<Debtor>
+			<Name>Клиент_56</Name>
+			<BirthDate>1965-12-24T00:00:00Z</BirthDate>
+			<BirthPlace>с. Новомусино Шарлыкского р-на Оренбургской области</BirthPlace>
+			<Address>461473, Оренбургская обл.,Шарлыкский р-он, с. Новомусино,ул. Типтяр, д.43</Address>
+			<Inn>6334502989</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>МАУ "ШАРЛЫКСКИЙ МФЦ"</Name>
+			<Inn>5651020782</Inn>
+			<Ogrn>1135658021696</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>a687867a-55c5-4ba2-b2cd-d3a3963f6418</Id>
+		<Number>12150607</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T10:48:17.28</PublishDate>
+		<Debtor>
+			<Name>Клиент_57</Name>
+			<BirthDate>1988-07-20T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Братск Иркутская область</BirthPlace>
+			<Address>Костромская область Мантуровский район город Мантурово ул. Новая д. 11</Address>
+			<Inn>8001572300485</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_102</Value>
+				</PreviousName>
+				<PreviousName>
+					<Value>Клиент_103</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>ОГКУ "МФЦ"</Name>
+			<Inn>4401109186</Inn>
+			<Ogrn>1104401004564</Ogrn>
+		</Publisher>
+		<CreditorsFromEntrepreneurship>
+			<ObligatoryPayments>
+				<ObligatoryPayment>
+					<Name>Исполнительский сбор</Name>
+					<Sum>1000</Sum>
+				</ObligatoryPayment>
+			</ObligatoryPayments>
+		</CreditorsFromEntrepreneurship>
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ООО МФК "Займер"</CreditorName>
+					<Content>кредит</Content>
+					<Basis>договор займа №5773567 от 10.01.2020</Basis>
+					<TotalSum>18721.22</TotalSum>
+					<DebtSum>18721.22</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО"Тинькофф банк"</CreditorName>
+					<Content>кредитная карта</Content>
+					<Basis>договор №0198680753 от 03.02.2016</Basis>
+					<TotalSum>65285.32</TotalSum>
+					<DebtSum>65285.32</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО МКК "Финрегион"</CreditorName>
+					<Content>кредит</Content>
+					<Basis>договор №9159192498-3 от 07.04.2020</Basis>
+					<TotalSum>28012.5</TotalSum>
+					<DebtSum>28012.5</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО Совкомбанк</CreditorName>
+					<Content>кредит</Content>
+					<Basis>кредитный договор №S03-18-2438229-1 от 17.07.2018</Basis>
+					<TotalSum>59291.02</TotalSum>
+					<DebtSum>59291.02</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО "ЭОС"</CreditorName>
+					<Content>кредит</Content>
+					<Basis>кредитный договор №000338340/006/19 от 09.06.2019</Basis>
+					<TotalSum>51421.88</TotalSum>
+					<DebtSum>51421.88</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО "ЦДУ"</CreditorName>
+					<Content>займ</Content>
+					<Basis>договор займа №4793558001 от 08.03.2020</Basis>
+					<TotalSum>29281.25</TotalSum>
+					<DebtSum>29281.25</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>4a0415b9-5695-4130-bd59-cdb31ef5f937</Id>
+		<Number>12150488</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T10:39:49.18</PublishDate>
+		<Debtor>
+			<Name>Клиент_58</Name>
+			<BirthDate>1997-01-19T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Челябинск</BirthPlace>
+			<Address>Челябинская область, г. Челябинск, ул. Дегтярева, д. 81, кв. 32</Address>
+			<Inn>95432089357545</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_104</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>ОГАУ "МФЦ ЧЕЛЯБИНСКОЙ ОБЛАСТИ"</Name>
+			<Inn>7453255521</Inn>
+			<Ogrn>1137453004810</Ogrn>
+		</Publisher>
+		<CreditorsFromEntrepreneurship>
+			<ObligatoryPayments>
+				<ObligatoryPayment>
+					<Name>Налоги (штраф)</Name>
+					<Sum>2784.23</Sum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Налоги (страховые опс)</Name>
+					<Sum>54627.01</Sum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Налоги (страховые омс)</Name>
+					<Sum>12883</Sum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Налоги (НПД)</Name>
+					<Sum>360</Sum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Налоги (пеня)</Name>
+					<Sum>19576.7</Sum>
+				</ObligatoryPayment>
+			</ObligatoryPayments>
+		</CreditorsFromEntrepreneurship>
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ООО Агенство финансового Контроля</CreditorName>
+					<Content>Заем</Content>
+					<Basis>Договор займа: № 009913141/810/17 от 01.09.2017 г.</Basis>
+					<TotalSum>24028.37</TotalSum>
+					<DebtSum>24028.37</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО "Доверие Стальное"</CreditorName>
+					<Content>Коммунальные платежи</Content>
+					<Basis>л/с 4680002011</Basis>
+					<TotalSum>26485.27</TotalSum>
+					<DebtSum>26485.27</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>МУП Производственное объединение водоснабжения и водоотведения</CreditorName>
+					<Content>Коммунальные платежи</Content>
+					<Basis>л/с 3145447661</Basis>
+					<TotalSum>126184.46</TotalSum>
+					<DebtSum>126184.46</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>МУП ЧКТС</CreditorName>
+					<Content>Коммунальные платежи</Content>
+					<Basis>л/с 3006103788</Basis>
+					<TotalSum>161797.18</TotalSum>
+					<DebtSum>161797.18</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО "ЦКС"</CreditorName>
+					<Content>Коммунальные платежи</Content>
+					<Basis>л/с 6550323129</Basis>
+					<TotalSum>14954.55</TotalSum>
+					<DebtSum>14954.55</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+			<ObligatoryPayments>
+				<ObligatoryPayment>
+					<Name>Исполнительский сбор 20291/20/74028-ИП от 26.03.2020</Name>
+					<Sum>2530</Sum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Исполнительский сбор 8686/20/74028-ИП от 14.02.2020 150758/21/74028-СД</Name>
+					<Sum>1681.99</Sum>
+				</ObligatoryPayment>
+				<ObligatoryPayment>
+					<Name>Исполнительский сбор 58183/20/74028-ИП от 28.08.2020</Name>
+					<Sum>1000</Sum>
+				</ObligatoryPayment>
+			</ObligatoryPayments>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>04e43b5e-e4b5-4cc3-a6bc-b17af7719a85</Id>
+		<Number>12150530</Number>
+		<Type>returnOfApplicationOnExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T10:42:23.5</PublishDate>
+		<Debtor>
+			<Name>Клиент_59</Name>
+			<BirthDate>1958-03-04T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Обнинск Калужской области</BirthPlace>
+			<Address>249035, Калужская обл., г. Обнинск, пр-кт Маркса, д. 34, кв. 86</Address>
+			<Inn>3476620638486</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГБУ КО "МФЦ КАЛУЖСКОЙ ОБЛАСТИ"</Name>
+			<Inn>4011016962</Inn>
+			<Ogrn>1074011003208</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о возврате гражданину поданного им заявления о признании гражданина банкротом во внесудебном порядке</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>868f90e1-7e14-4193-a2e1-1de390ed4351</Id>
+		<Number>12150390</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T10:33:08.523</PublishDate>
+		<Debtor>
+			<Name>Клиент_60</Name>
+			<BirthDate>1960-08-11T00:00:00Z</BirthDate>
+			<BirthPlace>с.Осино-Гай Гавриловского района Тамбовской области</BirthPlace>
+			<Address>Ставропольский край, город Минеральные Воды, улица Бештаугорская, дом 7,квартира 180</Address>
+			<Inn>9087125453894</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>МБУ "МФЦ МГО"</Name>
+			<Inn>2630015546</Inn>
+			<Ogrn>1152651019630</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>АО "Банк Русский Стандарт"</Name>
+				<Bik>044525151</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ООО "ЭОС"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор №PILI9080803344875 от 12.08.2019 г.</Basis>
+					<TotalSum>430235.16</TotalSum>
+					<DebtSum>425110.41</DebtSum>
+					<PenaltySum>5125.55</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО "Банк Русский Стандарт"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор №44248352 от 21.01.2006 г.</Basis>
+					<TotalSum>33694.73</TotalSum>
+					<DebtSum>33098.26</DebtSum>
+					<PenaltySum>596.47</PenaltySum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>b510957e-0c86-4ea4-a14f-59c6e43a127c</Id>
+		<Number>12150282</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T10:26:12.57</PublishDate>
+		<Debtor>
+			<Name>Клиент_61</Name>
+			<BirthDate>1967-12-06T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Новоаннинкский Волгоградской обл.</BirthPlace>
+			<Address>682071, Хабаровский край, Верхнебуреинский р-н, рп Новый Ургал, ул Киевская, д. 4, кв. 55</Address>
+		</Debtor>
+		<Publisher>
+			<Name>КГКУ "ОСЭП ХАБАРОВСКОГО КРАЯ, МФЦ"</Name>
+			<Inn>2721187743</Inn>
+			<Ogrn>1112721010423</Ogrn>
+		</Publisher>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ООО "ЭОС"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор №633/0723-0000062 от 20.11.2013</Basis>
+					<TotalSum>126586.03</TotalSum>
+					<DebtSum>126586.03</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО "Премьер Авто"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор №625/0056-0124252 от 17.09.2015</Basis>
+					<TotalSum>239251.14</TotalSum>
+					<DebtSum>239251.14</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>39791e49-ebdd-4560-8388-3731117e02f5</Id>
+		<Number>12150137</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T10:21:12.033</PublishDate>
+		<Debtor>
+			<Name>Клиент_62</Name>
+			<BirthDate>2000-04-06T00:00:00Z</BirthDate>
+			<BirthPlace>ст.  Зеленчукская Зеленчукский район Карачаево-Черкесская Респ.</BirthPlace>
+			<Address>Карачаево-Черкесская Республика, Зеленчукский район, ст. Зеленчукская улица Подгорная д. 24</Address>
+		</Debtor>
+		<Publisher>
+			<Name>МБУ "МФЦ В ЗМР"</Name>
+			<Inn>0912003866</Inn>
+			<Ogrn>1140912000569</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>71e5a3e8-5e69-4a9b-b7f5-e61758356a9c</Id>
+		<Number>12152020</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T12:18:39.673</PublishDate>
+		<Debtor>
+			<Name>Клиент_63</Name>
+			<BirthDate>1961-02-26T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Белая Холуница Кировской обл.</BirthPlace>
+			<Address>Кировская обл., Белохолуницкий р-н, г. Белая Холуница, ул. Западная, д. 9 кв.1</Address>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_105</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>КОГАУ "МФЦ"</Name>
+			<Inn>4345356132</Inn>
+			<Ogrn>1134345009974</Ogrn>
+		</Publisher>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ПАО СБЕРБАНК</CreditorName>
+					<Content>КРЕДИТ</Content>
+					<Basis>ДОГОВОР № 26681 ОТ 20.07.2016</Basis>
+					<TotalSum>96397.92</TotalSum>
+					<DebtSum>96397.92</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО СБЕРБАНК</CreditorName>
+					<Content>КРЕДИТ</Content>
+					<Basis>ДОГОВОР № 34920 ОТ 08.08.2017</Basis>
+					<TotalSum>73825.32</TotalSum>
+					<DebtSum>73825.32</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО СБЕРБАНК</CreditorName>
+					<Content>КРЕДИТ</Content>
+					<Basis>ДОГОВОР № 8561 ОТ 14.02.2018</Basis>
+					<TotalSum>80099.53</TotalSum>
+					<DebtSum>80099.53</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО СБЕРБАНК</CreditorName>
+					<Content>КРЕДИТНАЯ КАРТА</Content>
+					<Basis>КРЕДИТНАЯ КАРТА №393-Р-8485104570 ОТ 06.04.2016</Basis>
+					<TotalSum>38595.89</TotalSum>
+					<DebtSum>38595.89</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>2ea76f51-1183-454a-b4aa-79431b2523d8</Id>
+		<Number>12151360</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T12:13:45.49</PublishDate>
+		<Debtor>
+			<Name>Клиент_64</Name>
+			<BirthDate>1994-05-04T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Екатеринбург</BirthPlace>
+			<Address>Свердловская обл., г. Екатеринбург, ул. Антона Валека, д. 12, кв. 253</Address>
+			<Inn>3540294752</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГБУ СО "МФЦ"</Name>
+			<Inn>6670308345</Inn>
+			<Ogrn>1106670028981</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>ПАО Сбербанк</Name>
+				<Bik>044525225</Bik>
+			</Bank>
+			<Bank>
+				<Name>Банк ПАО ВТБ</Name>
+				<Bik>046577501</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>251419/22/66001-ИП</Basis>
+					<TotalSum>113640</TotalSum>
+					<DebtSum>113640</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Банк ПАО ВТБ</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>227877/22/66001-ИП</Basis>
+					<TotalSum>270175</TotalSum>
+					<DebtSum>270175</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО "Столичное АВД"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>85775/22/66001-ИП</Basis>
+					<TotalSum>44564</TotalSum>
+					<DebtSum>44564</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Банк ПАО ВТБ</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>215065/22/66001-ИП</Basis>
+					<TotalSum>64493</TotalSum>
+					<DebtSum>64493</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>865a2521-f71d-498f-a345-440626b6172c</Id>
+		<Number>12151686</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T12:10:42.243</PublishDate>
+		<Debtor>
+			<Name>Клиент_65</Name>
+			<BirthDate>1964-02-01T00:00:00Z</BirthDate>
+			<BirthPlace>с. Верхний Мамон Павловского р-на Воронежской обл.</BirthPlace>
+			<Address>Воронежская обл., Ольховатский район, р.п. Ольховатка, пер. Дзержинского, д.4, кв. 37</Address>
+			<Inn>758934590234</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>АУ  "МФЦ"</Name>
+			<Inn>3666127566</Inn>
+			<Ogrn>1053600451057</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>Центрально-Чернозёмный банк ПАО Сбербанк</Name>
+				<Bik>042007681</Bik>
+			</Bank>
+			<Bank>
+				<Name>Центрально-Чернозёмный банк ПАО Сбербанк</Name>
+				<Bik>042007681</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>Центрально-Чернозёмный банк ПАО Сбербанк</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Судебный приказ № 2-2689/17 от 08.09.2017</Basis>
+					<TotalSum>76726.5</TotalSum>
+					<DebtSum>76726.5</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>Центрально-Чернозёмный банк ПАО Сбербанк</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Судебный приказ №2-911/2017 от 08.09.2017</Basis>
+					<TotalSum>347864.71</TotalSum>
+					<DebtSum>347864.71</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>c6c0f7a7-374d-43ac-9f23-9d65b3c2d27b</Id>
+		<Number>12151599</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T11:50:12.9</PublishDate>
+		<Debtor>
+			<Name>Клиент_66</Name>
+			<BirthDate>1978-03-13T00:00:00Z</BirthDate>
+			<BirthPlace>ст. Просница Кирово-Чепецкий р-н Кировская обл.</BirthPlace>
+			<Address>Кировская обл. Кирово-Чепецкий р-н, ст. Просница, ул. Ленина, д. 49 кв. 5</Address>
+			<Inn>8654209745</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>КОГАУ "МФЦ"</Name>
+			<Inn>4345356132</Inn>
+			<Ogrn>1134345009974</Ogrn>
+		</Publisher>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>АО БАНК РУССКИЙ СТАНДАРТ</CreditorName>
+					<Content>КРЕДИТ</Content>
+					<Basis>ДОГОВОР № 121848096 ОТ 14.09.2018</Basis>
+					<TotalSum>129761.91</TotalSum>
+					<DebtSum>126041.09</DebtSum>
+					<PenaltySum>3720.82</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО ТРАСТ</CreditorName>
+					<Content>КРЕДИТ</Content>
+					<Basis>КРЕДИТНЫЙ ДОГОВОР № 1340-01253-017-108/42-810/12Ф ОТ 23.07.2012</Basis>
+					<TotalSum>50950.92</TotalSum>
+					<DebtSum>50099.43</DebtSum>
+					<PenaltySum>851.49</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО ФИНАНСОВЫЕ ВЗЫСКАНИЯ</CreditorName>
+					<Content>ЗАЙМ</Content>
+					<Basis>ДОГОВОР № 00731112013 ОТ 29.07.2013</Basis>
+					<TotalSum>10130</TotalSum>
+					<DebtSum>9930</DebtSum>
+					<PenaltySum>200</PenaltySum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ИП БУКИНА ИННА ВЛАДИМИРОВНА</CreditorName>
+					<Content>ЗАЙМ</Content>
+					<Basis>ДОГОВОР Б/Н ОТ 20.11.2012</Basis>
+					<TotalSum>103200</TotalSum>
+					<DebtSum>100000</DebtSum>
+					<PenaltySum>3200</PenaltySum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>f8f1ad1a-dfcd-4b6c-9162-68bd4f1035af</Id>
+		<Number>12151617</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T11:51:17.36</PublishDate>
+		<Debtor>
+			<Name>Клиент_67</Name>
+			<BirthDate>1961-04-12T00:00:00Z</BirthDate>
+			<BirthPlace>с.Октябрьское Октябрьского района Николаевской области</BirthPlace>
+			<Address>Ставропольский край, Минераловодский район, поселок Кумской, улица 70 лет Октября, дом 4, квартира 3</Address>
+			<Inn>89032347405</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>МБУ "МФЦ МГО"</Name>
+			<Inn>2630015546</Inn>
+			<Ogrn>1152651019630</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>Ставропольское отделение №5230 ПАО "Сбербанк"</Name>
+				<Bik>040702615</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ООО "Феникс"</CreditorName>
+					<Content>Кредитная задолженность</Content>
+					<Basis>Судебный приказ №2-3015-22-277/2022 от 26.10.2022</Basis>
+					<TotalSum>147620.46</TotalSum>
+					<DebtSum>147620.46</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+			<ObligatoryPayments>
+				<ObligatoryPayment>
+					<Name>Коммунальная задолженность, МУП Славянка, п.Новотерский, ул.Пионерская, д.1 Б, судебный приказ №2-402-22-277/18 от 15.03.2018</Name>
+					<Sum>17618.13</Sum>
+					<PenaltySum>17618.13</PenaltySum>
+				</ObligatoryPayment>
+			</ObligatoryPayments>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>363308cb-b372-4714-b01c-464faf5ee90a</Id>
+		<Number>12151673</Number>
+		<Type>returnOfApplicationOnExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T11:55:10.733</PublishDate>
+		<Debtor>
+			<Name>Клиент_68</Name>
+			<BirthDate>1971-07-29T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Новосиль Орловской области</BirthPlace>
+			<Address>Орловская обл, Новосильский р-н, гор. Новосиль, ул. Пионерская, д. 15</Address>
+			<Inn>309619457042</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>БУ ОО "МФЦ"</Name>
+			<Inn>5753007212</Inn>
+			<Ogrn>1025700831067</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о возврате гражданину поданного им заявления о признании гражданина банкротом во внесудебном порядке</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>30a3f659-de6b-4e49-8520-9074c662f3a0</Id>
+		<Number>12151688</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T11:56:29.32</PublishDate>
+		<Debtor>
+			<Name>Клиент_69</Name>
+			<BirthDate>1962-11-15T00:00:00Z</BirthDate>
+			<BirthPlace>гор.Рассказово Тамбовской обл.</BirthPlace>
+			<Address>Тамбовская обл.Рассказовский р-н с.Татарщино ул.Шатилова д.120</Address>
+			<Inn>0982657238245</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>МКУ "РАССКАЗОВСКИЙ МФЦ"</Name>
+			<Inn>6828008120</Inn>
+			<Ogrn>1146828000990</Ogrn>
+		</Publisher>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк России</CreditorName>
+					<Content>кредит</Content>
+					<Basis>договор №357691 09.08.2019</Basis>
+					<TotalSum>109323.27</TotalSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк России</CreditorName>
+					<Content>кредитная карта</Content>
+					<Basis>задолженность по кредитному платежу</Basis>
+					<TotalSum>59680.01</TotalSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО ОПТ банк</CreditorName>
+					<Content>кредит</Content>
+					<Basis>договор №2951355982 от 17.09.2020</Basis>
+					<TotalSum>78090.3</TotalSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>АО ОПТ банк</CreditorName>
+					<Content>кредит</Content>
+					<Basis>договор №2942555264 от 06.07.2020</Basis>
+					<TotalSum>34893.35</TotalSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>7a9a1d0f-be38-4478-94b2-6f3259ca7f1b</Id>
+		<Number>12151542</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T11:46:59.06</PublishDate>
+		<Debtor>
+			<Name>Клиент_70</Name>
+			<BirthDate>1991-08-11T00:00:00Z</BirthDate>
+			<BirthPlace>дер. Саковнинка Троснянского р-на Орловской обл.</BirthPlace>
+			<Address>Орловская обл, Троснянский р-н, д. Саковнинки, д. 7</Address>
+			<Inn>9002847868</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>БУ ОО "МФЦ"</Name>
+			<Inn>5753007212</Inn>
+			<Ogrn>1025700831067</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>АО Альфа-Банк</Name>
+				<Bik>044525351</Bik>
+			</Bank>
+			<Bank>
+				<Name>ПАО Сбербанк</Name>
+				<Bik>045402601</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ООО СентиненКредитМенеджмент</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>Договор № 633/0051-0151693 от 21.09.2012</Basis>
+					<TotalSum>101108.87</TotalSum>
+					<DebtSum>101108.87</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО СентиненКредитМенеджмент</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>Договор № 624/0051-0709106 от 20.09.2012</Basis>
+					<TotalSum>2100</TotalSum>
+					<DebtSum>2100</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ПАО Сбербанк</CreditorName>
+					<Content>Кредитная карта</Content>
+					<Basis>Договор № 0043-Р-11677140390 от 10.09.2018</Basis>
+					<TotalSum>65606.67</TotalSum>
+					<DebtSum>65606.67</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>НАО Первое клиентское бюро</CreditorName>
+					<Content>Микрозайм</Content>
+					<Basis>Договор № 9534760913 от 15.04.2015</Basis>
+					<TotalSum>80383</TotalSum>
+					<DebtSum>80383</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>НАО Первое клиентское бюро</CreditorName>
+					<Content>Микрозайм</Content>
+					<Basis>Договор № 325363013 от 16.03.2015</Basis>
+					<TotalSum>10173</TotalSum>
+					<DebtSum>10173</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО Региональная служба взыскания</CreditorName>
+					<Content>Микрозайм</Content>
+					<Basis>Договор № 8ew64s от 12.06.2015</Basis>
+					<TotalSum>16626</TotalSum>
+					<DebtSum>16626</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО МКК Русинтерфинанс</CreditorName>
+					<Content>Микрозайм</Content>
+					<Basis>Договор № 216173 от 14.05.2015</Basis>
+					<TotalSum>45000</TotalSum>
+					<DebtSum>45000</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО Ситиус</CreditorName>
+					<Content>Микрозайм</Content>
+					<Basis>Договор № 2020-576485 от 30.05.2020</Basis>
+					<TotalSum>10350</TotalSum>
+					<DebtSum>10350</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО МКК Универсального финансирования</CreditorName>
+					<Content>Микрозайм</Content>
+					<Basis>Договор № УФ-90612439324 от 13.05.2020</Basis>
+					<TotalSum>18543.6</TotalSum>
+					<DebtSum>18543.6</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО ЭОС</CreditorName>
+					<Content>Микрозайм</Content>
+					<Basis>Договор № 9534760913 от 01.06.2015</Basis>
+					<TotalSum>37316</TotalSum>
+					<DebtSum>37316</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>a7790394-28ac-4ecf-8460-d57b1e817f7b</Id>
+		<Number>12151582</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T11:49:19.723</PublishDate>
+		<Debtor>
+			<Name>Клиент_71</Name>
+			<BirthDate>1957-03-03T00:00:00Z</BirthDate>
+			<BirthPlace>гор.Сорочинск Оренбургской области</BirthPlace>
+			<Address>Оренбургская область г. Сорочинск ул. Ленина д.16 кв. 1</Address>
+			<Inn>8097276458293</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>МКУ «МФЦ» СОРОЧИНСКОГО ГОРОДСКОГО ОКРУГА</Name>
+			<Inn>5617021514</Inn>
+			<Ogrn>1135658005900</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>a4959e1a-5fff-484a-ac62-29f9477bff9b</Id>
+		<Number>12151363</Number>
+		<Type>completionOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T11:37:13.727</PublishDate>
+		<Debtor>
+			<Name>Клиент_72</Name>
+			<BirthDate>1983-10-29T00:00:00Z</BirthDate>
+			<BirthPlace>село Большая Атня Арского района Татарской АССР</BirthPlace>
+			<Address>Республика Татарстан, Атнинский р-н, с. Большая Атня, ул. Пролетарская, д. 39</Address>
+			<Inn>0927485672665</Inn>
+		</Debtor>
+		<Publisher>
+			<Name>ГБУ МФЦ В РЕСПУБЛИКЕ ТАТАРСТАН</Name>
+			<Inn>1659131896</Inn>
+			<Ogrn>1131690043704</Ogrn>
+		</Publisher>
+		<FinishReason>Поступило сообщение о завершении процедуры внесудебного банкротства гражданина</FinishReason>
+	</ExtrajudicialBankruptcyMessage>
+	<ExtrajudicialBankruptcyMessage>
+		<Id>01b0ef81-f3b2-4ceb-8bc1-4e9a067af77c</Id>
+		<Number>12150794</Number>
+		<Type>startOfExtrajudicialBankruptcy</Type>
+		<PublishDate>2023-08-08T11:37:15.093</PublishDate>
+		<Debtor>
+			<Name>Клиент_73</Name>
+			<BirthDate>1976-07-09T00:00:00Z</BirthDate>
+			<BirthPlace>гор. Щигры Курская область</BirthPlace>
+			<Address>Курская обл., г.Щигры, ул.Октябрьская, д.25, кв.12</Address>
+			<Inn>2003857993045</Inn>
+			<NameHistory>
+				<PreviousName>
+					<Value>Клиент_106</Value>
+				</PreviousName>
+				<PreviousName>
+					<Value>Клиент_107</Value>
+				</PreviousName>
+			</NameHistory>
+		</Debtor>
+		<Publisher>
+			<Name>АУ КО "МФЦ"</Name>
+			<Inn>4632093423</Inn>
+			<Ogrn>1084632004874</Ogrn>
+		</Publisher>
+		<Banks>
+			<Bank>
+				<Name>ПАО Сбербанк №8596</Name>
+				<Bik>013807906</Bik>
+			</Bank>
+		</Banks>
+		<CreditorsFromEntrepreneurship />
+		<CreditorsNonFromEntrepreneurship>
+			<MonetaryObligations>
+				<MonetaryObligation>
+					<CreditorName>ООО МКК "Русинтерфинанс"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор №17018118 от 15.09.2021г</Basis>
+					<TotalSum>20400</TotalSum>
+					<DebtSum>20400</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО МКК "Пенсионная КВ Деньги"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор №К16Б05773 от 12.10.2021г</Basis>
+					<TotalSum>34353.92</TotalSum>
+					<DebtSum>34353.92</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО "ЦДУ Инвест"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор №4359253001 от 15.09.2021г</Basis>
+					<TotalSum>15157.05</TotalSum>
+					<DebtSum>15157.05</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО «Хоум Кредит энд Финанс Банк»</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор №2368423613 от 01.06.2021г</Basis>
+					<TotalSum>29395.52</TotalSum>
+					<DebtSum>29395.52</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО «Хоум Кредит энд Финанс Банк»</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор №2248740515 от 16.05.2017г</Basis>
+					<TotalSum>125979.21</TotalSum>
+					<DebtSum>125979.21</DebtSum>
+				</MonetaryObligation>
+				<MonetaryObligation>
+					<CreditorName>ООО "ЭОС"</CreditorName>
+					<Content>Кредит</Content>
+					<Basis>Кредитный договор №21566273 от 26.03.2017г</Basis>
+					<TotalSum>274261.06</TotalSum>
+					<DebtSum>274261.06</DebtSum>
+				</MonetaryObligation>
+			</MonetaryObligations>
+		</CreditorsNonFromEntrepreneurship>
+	</ExtrajudicialBankruptcyMessage>
+</ExtrajudicialBankruptcy>
